@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @barcanex
+- 👋 Hi, I’m @Chris
 - 👀 I’m interested in ... food
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... get value from others and help others(if i can)
